@@ -1,0 +1,11 @@
+comandos basicos do git
+cd-navegar entre as pastas
+dir/ls-listar 
+mkdir-criar pasta
+del/rmdir-deletar ou remover 
+git status- verificar status da pasta
+git add./git add -A- adicionar 
+git init- adicionar novo
+git clone- clonar url site github
+
+ 
